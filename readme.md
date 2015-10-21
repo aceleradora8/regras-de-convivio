@@ -12,3 +12,11 @@ nome do projeto: `Ex: lucas-pati-calculadora`
 * Caso encontre algum erro em algum Projeto, abra uma Issue.
 
 * Não delete repositórios que não são seus.
+
+* Use mensagens de commit claras e explicativas.
+
+## Padrões:
+
+* No projeto principal, as  mensagens de commit devem seguir o padrão:
+`#número-da-história<nome-da-dupla> - Mensagem de commit`
+	* Exemplo: `#01<João,Patricia> - Arrumando form de cadastro`
