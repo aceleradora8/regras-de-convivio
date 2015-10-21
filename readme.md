@@ -23,7 +23,7 @@ nome do projeto: `Ex: lucas-pati-calculadora`
 
 ## Links Úteis:
 
-* [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+* [Ruby Style Guide](https://github.com/rubensmabueno/ruby-style-guide/blob/master/README-PT-BR.md)
 * [Rails Style Guide](https://github.com/bbatsov/rails-style-guide)
 * [Rubocop: Static Analyzer(Reforça padrões)](https://github.com/bbatsov/rubocop)
 * [Guard: Task Runner](https://github.com/guard/guard)
