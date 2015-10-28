@@ -19,7 +19,7 @@ nome do projeto: `Ex: lucas-pati-calculadora`
 
 * No projeto principal, as  mensagens de commit devem seguir o padrão:
 #número-da-história<nome-da-dupla> - Mensagem de commit
-	* Exemplo: `@lucasviola && @gabrielpozza #01 - Arrumando form de cadastro`
+	* Exemplo: `#1 <@lucasviola,@gabrielpozza> - Arrumando form de cadastro`
 
 ## Links Úteis:
 
